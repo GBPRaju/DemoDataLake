@@ -1,0 +1,9 @@
+{
+	"name": "prudhvi-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b3274b9-f596-4445-aac5-3169a725c845",
+		"tenantId": "93376ca5-15c1-42a0-8d6b-abdb5c71cc36"
+	}
+}
